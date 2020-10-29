@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/restaurant-sim/static/css/main.6a4967c1.chunk.css",
+    "main.css": "/restaurant-sim/static/css/main.72f1fcbe.chunk.css",
     "main.js": "/restaurant-sim/static/js/main.f02b639a.chunk.js",
     "main.js.map": "/restaurant-sim/static/js/main.f02b639a.chunk.js.map",
     "runtime-main.js": "/restaurant-sim/static/js/runtime-main.85f73a76.js",
@@ -8,13 +8,13 @@
     "static/js/2.2c86a636.chunk.js": "/restaurant-sim/static/js/2.2c86a636.chunk.js",
     "static/js/2.2c86a636.chunk.js.map": "/restaurant-sim/static/js/2.2c86a636.chunk.js.map",
     "index.html": "/restaurant-sim/index.html",
-    "static/css/main.6a4967c1.chunk.css.map": "/restaurant-sim/static/css/main.6a4967c1.chunk.css.map",
+    "static/css/main.72f1fcbe.chunk.css.map": "/restaurant-sim/static/css/main.72f1fcbe.chunk.css.map",
     "static/js/2.2c86a636.chunk.js.LICENSE.txt": "/restaurant-sim/static/js/2.2c86a636.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.85f73a76.js",
     "static/js/2.2c86a636.chunk.js",
-    "static/css/main.6a4967c1.chunk.css",
+    "static/css/main.72f1fcbe.chunk.css",
     "static/js/main.f02b639a.chunk.js"
   ]
 }
