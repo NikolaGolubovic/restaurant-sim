@@ -1,3 +1,7 @@
+https://nikolagolubovic.github.io/restaurant-sim/
+
+Small sim app: one restaurant, four table with max four guest per table. Guests orders food, pay bills, commands are stored in app..
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
