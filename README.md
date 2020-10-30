@@ -1,6 +1,6 @@
 https://nikolagolubovic.github.io/restaurant-sim/
 
-Small sim app: one restaurant, four table with max four guest per table. Guests orders food, pay bills, commands are stored in app..
+Small sim app: one restaurant, four table with max four guest per table. Guests order food, pay bills, commands are stored in app..
 
 # Getting Started with Create React App
 
